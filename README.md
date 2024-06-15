@@ -28,8 +28,10 @@ A ideia principal do projeto é sortear numeros aleatórios com base na quantida
 
 <h1 align="center"> ✅Técnicas e tecnologias utilizadas </h1>
 
-- `JavaScript`
 - `Lógica de programação`
+- <div> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </div>
+- <div> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> </div>
+- <div> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> </div>
 
 <h1 align="center"> Autor </h1>
 
